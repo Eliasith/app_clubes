@@ -1,6 +1,4 @@
-# app_clubess
-
-A new Flutter project.
+App Clubes
 
 ## Getting Started
 
